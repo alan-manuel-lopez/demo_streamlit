@@ -1,3 +1,3 @@
 import streamlit as st
 st.title("Mi primer app en streamlit")
-st.ballons()
+st.balloons()
